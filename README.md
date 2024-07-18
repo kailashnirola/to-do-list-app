@@ -55,6 +55,7 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please contact me at [b220017@nitsikkim.ac.in](mailto:b220017@nitsikkim.ac.in).
 
-## Follow Us
+## Follow Me
 
-- [GitHub](https://github.com/kailashnirola/to-do-list-app)
+- [LinkedIn](www.linkedin.com/in/kailash-nirola)
+- [GitHub](https://github.com/kailashnirola/)
