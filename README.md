@@ -10,7 +10,7 @@ An open-source to-do list application built with React and Vite. This project he
 
 ## Screenshots
 
-![Screenshot](public/index.png) 
+![Screenshot](public/index1.png) 
 _To-Do List page_
 
 ## Installation
